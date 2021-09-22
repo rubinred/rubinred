@@ -1,3 +1,1 @@
-<iframe data-src="https://player.vimeo.com/video/518988210?title=0&byline=0&portrait=0&muted=1&autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="lazyload"></iframe>
-
 Rubin Red is a cutting-edge, highly scalable Digital Commerce Platform, designed following the most modern technological standards and with particular attention to usability and user experience. Rubin Red allows you to create web applications of any nature and complexity (Marketplace, Digital Commerce WebApp, Website, etc.), in the B2C and B2B field. These applications are extremely customisable, extensible, with high performance and easy to manage by customers.
